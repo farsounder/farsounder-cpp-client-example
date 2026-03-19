@@ -1,3 +1,5 @@
+This repo is archived as a similiar example was moved into: https://github.com/farsounder/SDK-Integration-Examples/tree/master/using_sdk
+
 # Build notes
 
 ## Windows
